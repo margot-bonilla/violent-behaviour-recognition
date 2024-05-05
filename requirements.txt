@@ -2,3 +2,5 @@ opencv-python
 matplotlib
 numpy
 h5py
+tensorflow
+keras
